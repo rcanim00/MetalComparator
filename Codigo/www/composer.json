@@ -1,6 +1,0 @@
-{
-    "require": {
-        "stefanak-michal/bolt": "^2.5.2",
-        "laudis/neo4j-php-client": "^2.2"
-    }
-}
